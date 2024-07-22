@@ -1,0 +1,9 @@
+contentOrigin:
+  repofiles:
+    - ubi.repo
+packages:
+  - bash
+  - git
+  - openssh
+  - gcc
+
