@@ -1,0 +1,7 @@
+contentOrigin:
+  repofiles:
+    - ./ubi.repo
+packages:
+  - nodejs
+moduleEnable: ["nodejs:18"]
+

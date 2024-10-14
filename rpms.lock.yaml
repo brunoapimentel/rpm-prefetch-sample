@@ -1,0 +1,47 @@
+---
+lockfileVersion: 1
+lockfileVendor: redhat
+arches:
+- arch: x86_64
+  packages:
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/x86_64/appstream/os/Packages/n/nodejs-18.20.4-1.module+el9.4.0+22195+c221878e.x86_64.rpm
+    repoid: ubi-9-appstream-rpms
+    size: 13245317
+    checksum: sha256:97863583353c777d2b33442ed001e1373248e4fb5aa484a18d93e6399b7969c4
+    name: nodejs
+    evr: 1:18.20.4-1.module+el9.4.0+22195+c221878e
+    sourcerpm: nodejs-18.20.4-1.module+el9.4.0+22195+c221878e.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/x86_64/appstream/os/Packages/n/nodejs-docs-18.20.4-1.module+el9.4.0+22195+c221878e.noarch.rpm
+    repoid: ubi-9-appstream-rpms
+    size: 8318083
+    checksum: sha256:6c40fc2b1a2a95a0ede04ee1681f5538a0ce66792653fdb3615b99613dd11e20
+    name: nodejs-docs
+    evr: 1:18.20.4-1.module+el9.4.0+22195+c221878e
+    sourcerpm: nodejs-18.20.4-1.module+el9.4.0+22195+c221878e.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/x86_64/appstream/os/Packages/n/nodejs-full-i18n-18.20.4-1.module+el9.4.0+22195+c221878e.x86_64.rpm
+    repoid: ubi-9-appstream-rpms
+    size: 8842994
+    checksum: sha256:f366a01ef6b9ec972a7e5501c88955ffffaab71d952ca22854869bd5b669740d
+    name: nodejs-full-i18n
+    evr: 1:18.20.4-1.module+el9.4.0+22195+c221878e
+    sourcerpm: nodejs-18.20.4-1.module+el9.4.0+22195+c221878e.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/x86_64/appstream/os/Packages/n/npm-10.7.0-1.18.20.4.1.module+el9.4.0+22195+c221878e.x86_64.rpm
+    repoid: ubi-9-appstream-rpms
+    size: 2440062
+    checksum: sha256:2aabc44d0fff6aa7492edde2aca9a75b1b0e769ece71f6ac43df4a8c40697c84
+    name: npm
+    evr: 1:10.7.0-1.18.20.4.1.module+el9.4.0+22195+c221878e
+    sourcerpm: nodejs-18.20.4-1.module+el9.4.0+22195+c221878e.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/x86_64/baseos/os/Packages/l/libbrotli-1.0.9-6.el9.x86_64.rpm
+    repoid: ubi-9-baseos-rpms
+    size: 324495
+    checksum: sha256:5eddffbe9de57d1f1a30fc0b4e8515b3f71cd7ff99c6397f024478b5cb9ab8e8
+    name: libbrotli
+    evr: 1.0.9-6.el9
+    sourcerpm: brotli-1.0.9-6.el9.src.rpm
+  source: []
+  module_metadata:
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/x86_64/appstream/os/repodata/ed7abb4edbbde3d0e204df8056ef8939f234a238dc5a4951f4bee271532296a0-modules.yaml.gz
+    repoid: ubi-9-appstream-rpms
+    size: 6380
+    checksum: sha256:ed7abb4edbbde3d0e204df8056ef8939f234a238dc5a4951f4bee271532296a0
