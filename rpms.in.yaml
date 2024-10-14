@@ -1,6 +1,6 @@
 contentOrigin:
   repofiles:
-    - ./ubi.repo
+    - ./content_sets.repo
 packages:
   - nodejs
 moduleEnable: ["nodejs:18"]

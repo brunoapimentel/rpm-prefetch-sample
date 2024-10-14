@@ -1,0 +1,12 @@
+[rhel-9-for-baseos-eus-rpms]
+name=rhel-9-for-baseos-eus-rpms
+baseurl=https://rhsm-pulp.corp.redhat.com/content/eus/rhel9/9.2/$basearch/baseos/os/
+enabled=1
+gpgcheck=0
+
+[rhel-9-for-appstream-eus-rpms]
+name=rhel-9-for-appstream-eus-rpms
+baseurl=https://rhsm-pulp.corp.redhat.com/content/eus/rhel9/9.2/$basearch/appstream/os/
+enabled=1
+gpgcheck=0
+
